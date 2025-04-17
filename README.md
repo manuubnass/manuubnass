@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**manuubnass/manuubnass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Bio -->
+## Hii! I am ✦Manuela Bernardo✦
+---
 
-Here are some ideas to get you started:
+<!-- Links sociais com ícones -->
+<p align="center">
+  <a href="https://github.com/manuubnass" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/manuela-nascimento-b66018318" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:msw0123msw@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<!-- Estatísticas -->
+##  My GitHub ✦Stats✦
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manuubnass&show_icons=true&theme=radical&card_width=250&card_height=550" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuubnass&layout=compact&theme=radical&card_width=250&card_height=400" alt="Top Languages" />
+</p>
+
+---
+
+
