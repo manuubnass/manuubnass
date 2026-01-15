@@ -21,7 +21,7 @@
 ##  My GitHub ✦Stats✦
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuubnass&show_icons=true&theme=radical&card_width=250&card_height=550" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manuubnass&show_icons=true&theme=radical&card_width=250&card_height=400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuubnass&layout=compact&theme=radical&card_width=250&card_height=400" alt="Top Languages" />
 </p>
 
