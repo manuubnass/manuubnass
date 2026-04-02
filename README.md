@@ -1,9 +1,6 @@
-# 👋 Olá, eu sou SEU NOME
+# Hi, i am Manuela Bernardo Nascimento!
 
 ---
-
-## 🌐 Minhas Redes
-
 <p align="center">
   <a href="https://github.com/seuusuario" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
@@ -20,24 +17,12 @@
 </p>
 
 ---
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuubnass5&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuubnass&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
 ---
-
-## 💻 Linguagens Mais Usadas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-## 🚀 Tecnologias que eu uso
 
 <div align="center"><br>
 
@@ -52,8 +37,3 @@
 
 ---
 
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:seuemail@email.com">✉️ Me envie um email</a>
-</p>
